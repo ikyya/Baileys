@@ -1,5 +1,5 @@
 {
-  "name": "baileys",
+  "name": "@ikyya/baileys",
   "type": "module",
   "version": "7.0.0-rc.9",
   "description": "A WebSockets library for interacting with WhatsApp Web",
@@ -12,7 +12,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "iky gante",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
